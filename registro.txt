@@ -1,0 +1,4 @@
+Fluctuaciï¿½n detectada en el sensor Temperatura: 6.70
+Fluctuaciï¿½n detectada en el sensor Temperatura: 8.70
+Fluctuaciï¿½n detectada en el sensor Humedad: 25.00
+Fluctuación detectada en el sensor Presión: 38.10
